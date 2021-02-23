@@ -1,6 +1,6 @@
 # Datan visualisointi
 
-Perusteita datankäsittelyyn ja visualisoimiseen.
+Datankäsittelyn ja visualisoimisen perusteiden harjoittelua.
 
 Sisältönä kuuluisien datasettien käsittelyä (Iris, Titanic, Boston) ja niiden sisällön visualisoimista Matplotlibillä.
 
